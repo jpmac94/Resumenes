@@ -1,0 +1,13 @@
+operadores logicos
+todos retornan un tipo de dato booleano (true, false)
+var1==var2		//devuelve true si el valor de var1 es igual al valor de var2 de lo contrario retorna false
+var1!==var2		//devuelve true si el valor de var1 es distinto al valor de var2 de lo contrario retorna false
+var1===var2		//devuelve true si el valor de var1 es igual al valor de var2 y ademas tienen el mismo tipo de dato de lo contrario retorna false
+var1!===var2		//devuelve true si el valor de var1 es distinto al valor de var2 o si tienen distinto tipo de dato de lo contrario retorna false
+var1<=var2		//devuelve true si el valor de var1 es menor o igual al valor de var2 de lo contrario retorna false
+var1>=var2		//devuelve true si el valor de var1 es mayor o igual al valor de var2 de lo contrario retorna false
+var1<var2		//devuelve true si el valor de var1 es menor al valor de var2 de lo contrario retorna false
+var1>var2		//devuelve true si el valor de var1 es mayor al valor de var2 de lo contrario retorna false
+!var1==var2		//devuelve true si el valor de var1 es distinto al valor de var2(niega la condicion var1==var2) de lo contrario retorna false
+var1==var2 && var3==var4		//devuelve true si el valor de var1 es igual al valor de var2 y el valor de var3 es igual al valor de var4 de lo contrario retorna false
+var1==var2 || var3==var4		//devuelve true si el valor de var1 es igual al valor de var2 o el valor de var3 es igual al valor de var4 de lo contrario retorna false
