@@ -1,0 +1,19 @@
+OPERADORES LOGICOS
+AND 
+&&
+OR
+||
+NOT 
+!(expresion)
+OPERADORES MATEMATICOS
+==
+!=
+=== (evalua que valor y tipo de dato sean iguales)
+!== (evalua que valor y tipo de dato sean iguales)
+<
+>
+<=
+>=
+++
+--
+%(modulo:resto de la division)
